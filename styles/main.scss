@@ -215,6 +215,7 @@ p {
   border-radius: $big-main--border-radius;
   display: flex;
   justify-content: center;
+  opacity: 0;
   animation: anim_tranisition 1.3s ease-in-out 0.2s 1 forwards;
 }
 .main-section {
